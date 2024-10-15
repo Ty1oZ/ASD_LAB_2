@@ -1,0 +1,3 @@
+﻿  MaxElement_Recursion.cpp
+C:\Users\Arseny\source\repos\MaxElement_Recursion\MaxElement_Recursion\MaxElement_Recursion.cpp(102,27): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+  MaxElement_Recursion.vcxproj -> C:\Users\Arseny\source\repos\MaxElement_Recursion\x64\Debug\MaxElement_Recursion.exe
